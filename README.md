@@ -1,5 +1,5 @@
 ## Olá eu sou o Bolha👋
 
 - 🌱 qual linguagem eu estou apredendo: ... Python
-- 📫 onde me como me contactar: ... bubbled20m@gmail.com
+- 📫 onde me contactar: ... bubbled20m@gmail.com
 
